@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\bin\Debug\klase_i_objekti.exe.config
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\bin\Debug\klase_i_objekti.exe
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\bin\Debug\klase_i_objekti.pdb
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\obj\Debug\klase_i_objekti.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\obj\Debug\klase_i_objekti.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\obj\Debug\klase_i_objekti.exe
+C:\Users\sebas\source\repos\klase_i_objekti\klase_i_objekti\obj\Debug\klase_i_objekti.pdb
